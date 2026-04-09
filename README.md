@@ -50,15 +50,27 @@ curl -sSL https://a05777.uk/dows/go/install.sh -o install.sh && chmod +x install
 ```
 许可证|License & Disclaimer
 ```
-软件许可及免责声明 (License & Disclaimer)
-软件许可及免责声明
+软件许可及免责声明 / Software License & Disclaimer
 版权所有 (c) 2026 a05777。保留所有权利。
+Copyright (c) 2026 a05777. All rights reserved.
+
 1. 权利保留与授权范围 (Rights & Scope)
 本软件的所有权、知识产权及源代码权利均归原作者所有。获得源代码的人员（“用户”）仅拥有非营利性的个人学习、研究及调试代码的非排他性权利。未经原作者明确书面许可，严禁将本软件或其任何部分用于商业盈利、集成至商业产品、或通过网络对外提供付费/免费服务（如 SaaS/API）。
+
+Ownership, intellectual property rights, and source code rights of this software belong entirely to the original author. Individuals who obtain the source code ("User") are granted a non-exclusive right solely for non-profit personal learning, research, and debugging. Without the express written permission of the original author, it is strictly prohibited to use this software or any part thereof for commercial profit, integrate it into commercial products, or provide paid/free services (such as SaaS/API) via the network.
+
 2. 绝对免责声明 (No Warranty)
 本程序按“原样”（"AS IS"）提供，不附带任何形式的明示或暗示保证。作者不保证程序符合特定用途，亦不保证运行过程中不出现错误。
+
+This program is provided "AS IS" without warranty of any kind, either express or implied. The author does not warrant that the program meets any specific purpose, nor does the author guarantee that the operation of the program will be error-free.
+
 3. 责任限制 (Limitation of Liability)
 在任何情况下，作者不对因使用本程序产生的任何损害（包括数据丢失、系统崩溃、法律诉讼等）承担任何责任。作者的全部赔偿责任上限在任何情况下均不超过用户实际支付的授权费用（如有）。
+
+In no event shall the author be liable for any damages (including but not limited to data loss, system crashes, or legal actions) arising out of the use of this program. The author's total aggregate liability shall under no circumstances exceed the actual license fee paid by the user (if any).
+
 4. 风险告知与解释权 (Acceptance & Interpretation)
 用户一旦运行、调试或以任何方式使用本程序，即视为完全理解并接受上述条款。作者保留对本协议的最终解释权，并有权随时更新授权条款。
+
+By running, debugging, or using this program in any manner, the User is deemed to have fully understood and accepted the above terms. The author reserves the right of final interpretation of this agreement and the right to update the license terms at any time.
 ```
