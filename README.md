@@ -43,11 +43,11 @@ Transfer/sec:     32.54MB
 root@SE1:~# 
 ```
 快速安装|Quick Install
-```
+```bash
 curl -sSL https://a05777.uk/dows/go/install.sh -o install.sh && chmod +x install.sh && sudo ./install.sh
 ```
 许可证|License & Disclaimer
-```
+```text
 软件许可及免责声明 / Software License & Disclaimer
 版权所有 (c) 2026 a05777。保留所有权利。
 Copyright (c) 2026 a05777. All rights reserved.
@@ -72,3 +72,4 @@ In no event shall the author be liable for any damages (including but not limite
 
 By running, debugging, or using this program in any manner, the User is deemed to have fully understood and accepted the above terms. The author reserves the right of final interpretation of this agreement and the right to update the license terms at any time.
 ```
+[更多信息](https://wp.a05777.uk/2026/04/08/mywebserver/)
