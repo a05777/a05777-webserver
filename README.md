@@ -77,3 +77,5 @@ In no event shall the author be liable for any damages (including but not limite
 By running, debugging, or using this program in any manner, the User is deemed to have fully understood and accepted the above terms. The author reserves the right of final interpretation of this agreement and the right to update the license terms at any time.
 ```
 [更多信息](https://wp.a05777.uk/2026/04/08/mywebserver/)
+
+更新：webser-h2 支持HTTP2，配置文件未改变，相同许可证，源代码为“main2.go”，相同许可证
