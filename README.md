@@ -2,6 +2,7 @@
 # 一个AI写的高性能Web服务器（基于Go，人工调试修改）
 系统要求：AMD64架构处理器，64位系统，支持systemctl，至少1个虚拟核心，1GB内存
 测试环境：Debian12 and Ubuntu 22.04
+HTTP端口填一个随机高位的即可，程序有协议嗅探，自动区分HTTP/HTTPS，只需要认真填写HTTPS端口
 
 [![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-red.svg)](LICENSE)
 
