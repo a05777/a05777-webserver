@@ -48,7 +48,7 @@ root@SE1:~#
 ```
 快速安装|Quick Install
 ```bash
-curl -sSL https://a05777.uk/dows/go/install.sh -o install.sh && chmod +x install.sh && sudo ./install.sh
+curl -sSL https://a057.net/dows/go/install.sh -o install.sh && chmod +x install.sh && sudo ./install.sh
 ```
 许可证|License & Disclaimer
 ```text
